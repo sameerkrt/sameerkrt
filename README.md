@@ -16,8 +16,11 @@
 <img src="https://img.shields.io/badge/%3CCLOUD%3E-%3CIBM%20CLOUD%3E-informational?style=flat&logo=%3CIBM%20CLOUD%3E&logoColor=white&color=2bbc8a">
 <br>
 <br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=sameerkrt&&show_icons=true&title_color=0366d6&icon_color=bb2acf&text_color=151515&bg_color=ffffff">
 <br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerkrt&layout=compact">
+ <br>
 <img src="https://camo.githubusercontent.com/b18700151a4ba3417a4af3c0835fd13c0ea7e756/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6b697368616e6b7237393739267265706f3d706c6163656d656e74733475">
 <br>
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameerkrt&repo=corona_update">
