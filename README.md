@@ -3,6 +3,7 @@
 -> I’m currently an undergrad engineering student in Computer Science Major.<br>
 -> Having good grasp over C++ & DS, Algo, also having experience in Web Development<br>
 -> Open for SDE, SWE, Embedded SW, Tech analyst intern roles<br>
+-> Github Student Developer<br>
 -> Open-Source<br>
 <br><br>
 
