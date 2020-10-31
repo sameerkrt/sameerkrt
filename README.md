@@ -17,7 +17,7 @@
 
 [1]: https://twitter.com/SameerKumarTha2
 [2]: https://www.linkedin.com/in/sameer-kumar-t-90b679102/
-<br><br>
+<br>
 
 <p>
 <img src="https://img.shields.io/badge/%3CProgramming%20Languages%3E-%3CC__C++__Python%3E-informational?style=flat&logo=%3CC_C++_Python%3E&logoColor=white&color=2bbc8a">
